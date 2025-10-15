@@ -18,15 +18,6 @@
 
 ---
 
-## 🧠 Interesses
-- Arquitetura de software e design de sistemas  
-- Sistemas distribuídos e escaláveis  
-- Boas práticas e código limpo  
-- Otimização de performance  
-- Aprendizagem contínua e inovação
-
----
-
 ## 📊 Estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodrick0209&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
