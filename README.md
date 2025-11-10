@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou o Rodrigo Cardoso
+# 👋 Hello, I'm Rodrigo Cardoso
 
-🎓 Sou licenciado em **Engenharia Informática** pelo **Instituto Superior de Engenharia do Porto (ISEP)**.  
-💻 Tenho uma grande paixão por **desenvolvimento full-stack**, com a criação de soluções robustas, escaláveis e bem estruturadas.  
+🎓 Bachelor's degree in **Software Engineering** from the **Instituto Superior de Engenharia do Porto (ISEP)**.  
+💻 I have a great passion for **full-stack development**, creating robust, scalable, and well-structured solutions.  
 
 ---
 
@@ -18,14 +18,14 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodrick0209&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrick0209&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigopontescardoso@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cardoso-a8461633b/)
