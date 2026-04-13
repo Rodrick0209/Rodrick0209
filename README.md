@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rodrigo Cardoso
 
-🎓 Bachelor's degree in **Software Engineering** from the **Instituto Superior de Engenharia do Porto (ISEP)**.  
+🎓 Bachelor's degree in **Computer Engineering** from the **Porto School of Engineering (ISEP)**.  
 
 ---
 
