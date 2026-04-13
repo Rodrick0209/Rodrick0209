@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Rodrigo Cardoso
 
 🎓 Bachelor's degree in **Software Engineering** from the **Instituto Superior de Engenharia do Porto (ISEP)**.  
-💻 I have a great passion for **full-stack development**, creating robust, scalable, and well-structured solutions.  
 
 ---
 
