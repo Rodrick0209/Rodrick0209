@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Rodrigo Cardoso
 
 🎓 **Informatics Engineering Graduate** from **ISEP – Instituto Superior de Engenharia do Porto**.
+
 📊 **Aspiring Data Engineer** | Incoming **MSc in Data Engineering at ISEP** | **IT Infrastructure Trainee**
 
 I'm a motivated technology professional passionate about building **efficient, scalable, and innovative solutions** across software engineering, data, and IT infrastructure.
