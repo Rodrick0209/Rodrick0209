@@ -20,10 +20,14 @@ I build scalable software, data pipelines, and systems infrastructure.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=square&logo=databricks&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=square&logo=powerbi&logoColor=black)
 
+---
+
 ### 📊 GitHub Stats
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rodrick0209&theme=dark&border_radius=0)
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodrick0209&theme=solarized_dark)
+
+---
 
 ### 📫 Connect
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=square&logo=gmail&logoColor=white)](mailto:rodrigopontescardoso@gmail.com)
