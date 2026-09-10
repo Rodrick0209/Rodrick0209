@@ -11,9 +11,7 @@
 
 <table>
   <tr>
-    <!-- COLUNA DA ESQUERDA: TECH STACK & CONTACTS -->
     <td width="50%" valign="top">
-
       <table>
         <tr>
           <td>
@@ -42,12 +40,8 @@
           </td>
         </tr>
       </table>
-
     </td>
-
-    <!-- COLUNA DA DIREITA: GITHUB STATS -->
     <td width="50%" valign="top" align="center">
-
       <table>
         <tr>
           <td align="center">
@@ -58,7 +52,6 @@
           </td>
         </tr>
       </table>
-
     </td>
   </tr>
 </table>
