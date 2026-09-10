@@ -2,7 +2,7 @@
 
 🎓 **Informatics Engineering Graduate** from **ISEP – Instituto Superior de Engenharia do Porto**.
 
-📊 **Aspiring Data Engineer** | Incoming **MSc in Data Engineering at ISEP** | **IT Infrastructure Trainee**
+📊 **Data Engineering MSc Student at ISEP** | **IT Infrastructure Trainee** | **Informatics Engineer**
 
 I'm a motivated technology professional passionate about building **efficient, scalable, and innovative solutions** across software engineering, data, and IT infrastructure.
 
@@ -33,13 +33,13 @@ I'm a motivated technology professional passionate about building **efficient, s
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodrick0209\&show_icons=true\&theme=tokyonight\&hide_title=true\&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodrick0209&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrick0209\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrick0209&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rodrigopontescardoso@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rodrigo-cardoso-a8461633b/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigopontescardoso@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cardoso-a8461633b/)
