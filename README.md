@@ -43,6 +43,5 @@ I build scalable software, data pipelines, and systems infrastructure.
 <br/><br/>
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodrick0209&theme=solarized_dark" alt="Profile Details" />
 
-    </td>
   </tr>
 </table>
