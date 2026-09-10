@@ -33,9 +33,12 @@ I'm a motivated technology professional passionate about building **efficient, s
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodrick0209&show_icons=true&theme=tokyonight&hide_title=true)
+<p align="center">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rodrick0209&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/><br/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rodrick0209&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrick0209&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Contact
