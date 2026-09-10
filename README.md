@@ -41,11 +41,11 @@ I'm a technology professional passionate about building **efficient, scalable so
 
 ### 📊 GitHub Stats
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrick0209&theme=tokyonight&border_radius=0" alt="Streak Stats" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrick0209&theme=solarized-da&border_radius=0" alt="Streak Stats" />
 
 <br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodrick0209&theme=tokyonight" alt="Profile Details" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodrick0209&theme=solarized_dark" alt="Profile Details" />
 
     </td>
   </tr>
