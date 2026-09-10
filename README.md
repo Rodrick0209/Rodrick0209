@@ -39,7 +39,7 @@ I build scalable software, data pipelines, and systems infrastructure.
 
 ### 📊 GitHub Stats
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrick0209&theme=solarized-da&border_radius=0" alt="Streak Stats" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrick0209&theme=dark&border_radius=0" alt="Streak Stats" />
 <br/><br/>
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodrick0209&theme=solarized_dark" alt="Profile Details" />
 
