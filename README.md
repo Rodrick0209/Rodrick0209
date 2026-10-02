@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Rodrigo Cardoso
 
 🎓 **Informatics Engineering Graduate** from **ISEP**  
-📊 **Data Engineering MSc Student at ISEP** | **IT Infrastructure**
+📊 **Data Engineering MSc Student at ISEP** | **Informatics Department Member at NEI-ISEP**
 
 I build scalable software, data pipelines, and systems infrastructure.
 
